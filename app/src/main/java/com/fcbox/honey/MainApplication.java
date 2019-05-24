@@ -42,7 +42,7 @@ public class MainApplication extends FlutterApplication {
 
             @Override
             public boolean isDebug() {
-                return true;
+                return false;
             }
 
             /**
